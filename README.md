@@ -4,7 +4,7 @@
   
  ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Italo-matos-dev&show_icons=true&theme=radical)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-matos-dev&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-matos-dev&layout=compact&langs_count=7&theme=radical"/>
 
   ### 🛠️ My skills
   
